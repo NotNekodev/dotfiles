@@ -1,0 +1,14 @@
+gtk-2.0/ # the other gtk folders include some settings ig
+Electron/
+discord/
+dconf
+Code - Insiders/
+go/
+modem-manager-gui/
+nitrogen/
+pulse/
+QtProject/
+vivaldi/
+yay/
+ulauncher/
+Vencord/

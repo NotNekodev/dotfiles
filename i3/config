@@ -114,8 +114,8 @@ focus_follows_mouse no
 mouse_warping none
 
 default_border pixel 1
-
-client.focused          #61c49e #61c49e #ffffff #61c49e #61c49e
+    
+client.focused          #34d87e #34d87e #ffffff #61c49e #61c49e
 client.focused_inactive #333333 #333333 #888888 #292d2e #333333
 client.urgent           #fb4934 #fb4934 #ffffff #fb4934 #fb4934
 client.unfocused        #333333 #333333 #888888 #292d2e #333333

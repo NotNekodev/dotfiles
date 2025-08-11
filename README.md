@@ -2,7 +2,7 @@
 
 a collection of my dotfiles for different programs
 
-i tried to go with an accent color of #61c49e because it reminded me of the fluffy price Ralsei (even tho i like susie more)
+i tried to go with an accent color of #34d87e because it reminded me of the fluffy price Ralsei (even tho i like susie more)
 
 but yea
 
